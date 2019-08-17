@@ -13,6 +13,7 @@ Finally, a sample of 500 network will be constructed so to verify that the previ
 
 
 
+
 For more info about the theory:
 
 Albert, R., Jeong, H., & Barab´asi, A. (2011). Error and attack tolerance of complex networks. The Structure and Dynamics of Networks. 
