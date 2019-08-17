@@ -17,5 +17,7 @@ Finally, a sample of 500 network will be constructed so to verify that the previ
 For more info about the theory:
 
 Albert, R., Jeong, H., & Barab´asi, A. (2011). Error and attack tolerance of complex networks. The Structure and Dynamics of Networks. 
+
 Albert, R., & Barab´asi, A. (2002). Statistical mechanics of complex networks. Reviews Of Modern Physics, 74. 
+
 Barab´asi, A. (1999) Emergence of Scaling in Random Networks. Science, 286(5439), 509-512. 
