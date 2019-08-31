@@ -1,7 +1,7 @@
 # network-growth-models
 
 
-This project is still under progress.
+***This project is still under progress.
 
 Some simulations of network models, with focus on preferential attachment
 
