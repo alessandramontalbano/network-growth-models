@@ -3,18 +3,17 @@
 
 [[This project is still under progress.]]
 
-Some simulations of network models, with focus on preferential attachment
+This folder contains simulations of network models, with focus on preferential attachment
 
-Even though it is true that is impossible to generate absolute results, these simulations will at least help to show that different models will produce networks with different characteristics. 
-The goal here is to understand the dynamics of network growth and to look (if possible) for unexpected results.
+These simulations show that different models produce networks with different characteristics. The goal here is to understand the dynamics of network growth and to look (if possible) for unexpected results.
 
 Initially, a small growth simulation with a graph will be useful to initially visualize the model.  
-Finally, a sample of 500 network will be constructed so to verify that the previously obtained results were reliable. The two-sample Kolmogorov-Smirnov test will be used to determine whether the actual distribution of degrees is a power-law distribution. Under the null hypothesis of the K-S test the two distributions are identical, as a consequence, if the null hypothesis is rejected the degree distribution of the network will not have a powerlaw distribution.
+Finally, a large sample of network will be constructed so to verify that the previously obtained results can be considered as reliable. The two-sample Kolmogorov-Smirnov test is used to determine whether the actual distribution of degrees is a power-law distribution (i.e. what it is expected to be according to the Alber-Barabasi model). Under the null hypothesis of the K-S test the two distributions are identical, so if the null hypothesis is rejected the degree distribution of the network will not have a power-law distribution.
 
 
 
 
-For more info about the theory:
+Bibliography:
 
 Albert, R., Jeong, H., & Barabasi, A. (2011). Error and attack tolerance of complex networks. The Structure and Dynamics of Networks. 
 
